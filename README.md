@@ -79,11 +79,6 @@ python animal_tracker.py
 
 ---
 
-## 📸 Example Screenshot
-
-![screenshot](example_output.jpg) *(Add your own example image)*
-
----
 
 ## 📌 Notes
 
